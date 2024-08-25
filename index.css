@@ -1,0 +1,308 @@
+#head_section {
+	display: flex;
+	flex-direction: row;
+	align-items: center; 
+	gap: 300px; 
+	margin-bottom: -10px;
+}
+
+#paypal_logo {
+	margin-left: 50px;
+	margin-top: -5px;
+}
+
+#drop_down {
+	display: flex;
+	align-items: center; 
+}
+
+#personal {
+	font-weight: bold;
+	font-family: Verdana, sans-serif;
+	margin-top: 0; 
+	display: flex;
+	align-items: center; 
+}
+
+#personal i {
+	margin-left: 5px; 
+	font-size: 1rem; 
+}
+
+#button1 {
+	border-radius: 35px;
+	padding: 10px;
+	width: 90px;
+	height: 45px;
+	border: 1px solid rgb(0, 111, 185);
+	color: rgb(0, 111, 185);
+	font-weight: 700;
+	margin-left: 20px;
+	
+}
+
+#button2 {
+	border-radius: 35px;
+	padding: 10px;
+	width: 90px;
+	height: 45px;
+	background-color: rgb(0, 111, 185);
+	color: white;
+	font-weight: 700;
+	border: none;
+	margin-left: 20px;
+}
+
+#buttons {
+	margin-top: 9px;
+}
+
+#man_image {
+	position: relative; 
+}
+
+#man_image img {
+	width: 100%; 
+}
+
+#text {
+	position: absolute;
+	top: 50%; 
+	left: 50%; 
+	transform: translate(-50%, -50%); 
+	width: 100%; 
+	text-align: center; 
+	color: white; 
+}
+
+#writing {
+	font-family: "Arial Rounded MT Bold", sans-serif;
+	font-weight: lighter;
+	font-size: 2.5rem;
+	line-height: 1.2;
+}
+
+#btn-container{
+	position: absolute;
+	top: 60%; 
+	left: 50%; 
+	transform: translate(-50%, -50%); 
+	width: 100%; 
+	text-align: center;
+	
+}
+
+#sign_up_btn{
+    background-color: rgb(0, 111, 185);
+    border: none;
+    color: white;
+    font-family: "verdana";
+    border-radius: 30px;
+    padding: 15px;
+    font-weight: bold;
+    width: 400px;
+}
+
+#hii{
+	font-weight: bold;
+}
+
+#more-text-container{
+	position: absolute;
+	top: 70%; 
+	left: 50%; 
+	transform: translate(-50%, -50%); 
+	width: 100%; 
+	text-align: center;
+}
+
+#more-text{
+	font-weight: 2px;
+	color: white;
+	letter-spacing: 0.2px;
+}
+
+#even-more-text-container{
+	margin-top: 60px;
+	font-weight: bold;
+}
+
+#even-more-text{
+	font-weight: lighter;
+	font-size: 3em;
+}
+
+#learn-more{
+	border-radius: 35px;
+	padding: 900px, 20px, 30px, 40px;
+	width: 160px;
+	height: 45px;
+	border: 1px solid rgb(30, 31, 34);
+	color: rgb(0, 111, 185);
+	font-weight: bold;
+}
+
+#lower-part{
+	background-color: rgb(200, 200, 200, 0.2);
+	height: fit-content;
+	padding-bottom: 200px ;
+	margin-top: 90px;
+}
+
+#connection{
+	padding: 70px;
+	font-size: 2em;
+	font-weight: 350;
+}
+
+#for-buyers{
+	margin-top: -100px;
+	text-decoration: underline;
+}
+
+#images{
+	display: flex;
+}
+
+#img_1{
+	margin-left: 100px;
+}
+
+#img_2{
+	margin-left: 100px;
+}
+
+#third_part{
+	background-color: #003086;
+	height: fit-content;
+	padding: 100px;
+}
+
+#learn_more{
+	border: 1.5px solid rgb(0, 111, 185);
+	border-radius: 100px;
+	padding: 20px;
+	margin-bottom: 20px;
+	width: 200px;
+}
+
+#h1{
+	color: white;
+	font-weight: lighter;
+	transform: translatey(-30px);
+}
+
+#texter{
+	color: white;
+	text-align: left;
+	width: 750px;
+}
+
+#texter > h1{
+	font-weight: 100;
+	
+}
+
+#texter > a{
+	color: white;
+	text-decoration: none;
+}
+
+#texter > a:hover{
+	text-decoration: underline;
+}
+
+#texter_2 > h1{
+	font-weight: 100;
+}
+
+#texter-con{
+	display: flex;
+	flex-direction: row;
+}
+
+#texter_2{
+	color: white;
+	text-align: left;
+	margin-left: 90px;
+}
+
+#texter_2 > a{
+	color: white;
+	text-decoration: none;
+}
+
+a{
+	font-weight: bold;
+}
+
+#texter_2 > a:hover{
+	text-decoration: underline;
+}
+
+#btn-container2{
+	width: 100%; 
+	text-align: center;
+	margin-top: 30px;
+	
+}
+
+#sign_up_btn2{
+    background-color: rgb(0, 111, 185);
+    border: none;
+    color: white;
+    font-family: "verdana";
+    border-radius: 30px;
+    padding: 15px;
+    font-weight: bold;
+    width: 400px;
+}
+
+#ul1{
+	display: flex;
+	flex-direction: row;
+	gap: 30px;
+	list-style-type: none;
+	font-weight: bold;
+}
+
+#ul2{
+	color: rgb(149, 149, 149);
+	font-weight: bold;
+	display: flex;
+	flex-direction: row;
+	gap: 30px;
+	list-style-type: none;
+}
+#ul2 > ul{
+	color: rgb(149, 149, 149);
+	font-weight: bold;
+	display: flex;
+	flex-direction: row;
+	gap: 30px;
+	list-style-type: none;
+}
+#ul2 > p{
+	color: rgb(149, 149, 149);
+	font-weight: bold;
+	margin-left: 100px;
+}
+
+#mee{
+	color: rgb(149, 149, 149);
+	font-weight: bold;
+	display: flex;
+	flex-direction: row;
+	gap: 30px;
+	list-style-type: none;
+}
+
+#p{
+	display: flex;
+	flex-direction: row;
+	margin-left: 30px;
+}
+#warn{
+	font-weight: bold;
+	color: red;
+}

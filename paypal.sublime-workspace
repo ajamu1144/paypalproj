@@ -1,0 +1,847 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"bol",
+				"bolder"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"bl",
+				"darkblue"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"blue",
+				"mediumblue"
+			],
+			[
+				"blu",
+				"skyblue"
+			],
+			[
+				"firs",
+				"first_num"
+			],
+			[
+				"if",
+				"ife\tif … else"
+			],
+			[
+				"fir",
+				"first_num"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"nu",
+				"num7"
+			],
+			[
+				"n",
+				"num3"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"ch",
+				"check2"
+			],
+			[
+				"mu",
+				"multipliedNumber"
+			],
+			[
+				"num",
+				"num2"
+			],
+			[
+				"pe",
+				"person1"
+			],
+			[
+				"my",
+				"mynumber"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"r",
+				"right_score"
+			],
+			[
+				"le",
+				"left_score"
+			],
+			[
+				"left_",
+				"left_score"
+			],
+			[
+				"h",
+				"charset"
+			],
+			[
+				"c",
+				"courses2"
+			],
+			[
+				"p",
+				"projectileX"
+			],
+			[
+				"whi",
+				"while\tWhile Loop"
+			],
+			[
+				"pro",
+				"projectileX"
+			],
+			[
+				"pr",
+				"projectileY"
+			],
+			[
+				"projec",
+				"projectileX"
+			],
+			[
+				"pla",
+				"playerY"
+			],
+			[
+				"proj",
+				"projectileY"
+			],
+			[
+				"cr",
+				"create_rectangle"
+			],
+			[
+				"proje",
+				"projectile"
+			],
+			[
+				"pl",
+				"playerX"
+			],
+			[
+				"K",
+				"K_LEFT"
+			],
+			[
+				"player",
+				"playerSpeed"
+			],
+			[
+				"play",
+				"playerSpeed"
+			],
+			[
+				"e",
+				"event"
+			],
+			[
+				"ru",
+				"running"
+			],
+			[
+				"PLAYE",
+				"PLAYER_VEL"
+			],
+			[
+				"PLAY",
+				"PLAYER_HEIGHT"
+			],
+			[
+				"P",
+				"PLAYER_HEIGHT"
+			],
+			[
+				"d",
+				"date"
+			],
+			[
+				"fo",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"U",
+				"url()"
+			],
+			[
+				"a",
+				"name"
+			],
+			[
+				"us",
+				"user1"
+			],
+			[
+				"s",
+				"isemployed"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"border",
+				"border-right"
+			],
+			[
+				"rgb",
+				"rgb()"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"border-left-",
+				"border-left-width"
+			],
+			[
+				"b",
+				"border-radius"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"fl",
+				"flex-start"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"grey",
+				"dimgrey"
+			],
+			[
+				"sam",
+				"summary"
+			],
+			[
+				"margin-b",
+				"margin-bottom"
+			],
+			[
+				"gre",
+				"green"
+			],
+			[
+				"mo",
+				"monospace"
+			],
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"v",
+				"volume"
+			],
+			[
+				"rad",
+				"radii"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"ra",
+				"radii"
+			],
+			[
+				"square_",
+				"square_root"
+			],
+			[
+				"gold",
+				"goldenrod"
+			],
+			[
+				"gree",
+				"greenyellow"
+			],
+			[
+				"in",
+				"inset"
+			],
+			[
+				"Ca",
+				"calculator"
+			],
+			[
+				"anu",
+				"animation-iteration-count"
+			],
+			[
+				"an",
+				"animation-duration"
+			],
+			[
+				"anim",
+				"animation-name"
+			],
+			[
+				"go",
+				"goldenrod"
+			],
+			[
+				"ali",
+				"align-content"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"pink",
+				"deeppink"
+			],
+			[
+				"am",
+				"animation-iteration-count"
+			],
+			[
+				"cre",
+				"mintcream"
+			],
+			[
+				"f",
+				"forestgreen"
+			],
+			[
+				"is",
+				"ischild"
+			],
+			[
+				"ont",
+				"font-family"
+			],
+			[
+				"ro",
+				"royalblue"
+			],
+			[
+				"ca",
+				"cadetblue"
+			],
+			[
+				"m",
+				"max"
+			],
+			[
+				"con",
+				"convert"
+			],
+			[
+				"font-si",
+				"font-size"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"g",
+				"get\tGet Elements"
+			],
+			[
+				"scri",
+				"script"
+			],
+			[
+				"gr",
+				"green"
+			],
+			[
+				"cl",
+				"onclick"
+			],
+			[
+				"li",
+				"list-style-type"
+			],
+			[
+				"t",
+				"text-decoration"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"fil",
+				"filter"
+			],
+			[
+				"lim",
+				"lemonchiffon"
+			],
+			[
+				"light",
+				"lightseagreen"
+			],
+			[
+				"lig",
+				"lightcoral"
+			],
+			[
+				"aq",
+				"antiquewhite"
+			],
+			[
+				"i",
+				"indianred"
+			],
+			[
+				"gol",
+				"goldenrod"
+			],
+			[
+				"sa",
+				"sienna"
+			],
+			[
+				"bord",
+				"border-style"
+			],
+			[
+				"M",
+				"margin-bottom"
+			],
+			[
+				"pading-b",
+				"padding-bottom"
+			],
+			[
+				"sil",
+				"cornsilk"
+			],
+			[
+				"lightbl",
+				"lightskyblue"
+			],
+			[
+				"o",
+				"orange"
+			],
+			[
+				"re",
+				"revert"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"box-s",
+				"box-sizing"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"snipp",
+				"Set Syntax: JavaScript (PHP)"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"indent",
+				"Indentation: Detect"
+			],
+			[
+				"uppe",
+				"Convert Case: Upper Case"
+			],
+			[
+				"chara",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"ex",
+				"Selection: Expand to Block"
+			],
+			[
+				"Pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: !",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"eleme",
+				"Snippet: Get Elements"
+			],
+			[
+				"Snippet: for ",
+				"Snippet: for (…) {…}"
+			],
+			[
+				"LOW",
+				"Convert Case: Lower Case"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"revers",
+				"Permute Lines: Reverse"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"",
+				"Emmet: Go to Next Edit Point"
+			],
+			[
+				"inst",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"css",
+				"Set Syntax: CSS (PHP)"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 426.666666667,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/User/Desktop/J.S Class/clw1.js",
+		"/C/Users/User/Desktop/J.S Class/classw1.html",
+		"/C/Users/User/Desktop/J.S Class/jsass.js",
+		"/C/Users/User/Desktop/J.S Class/jsass.html",
+		"/C/Users/User/Desktop/Projects's/paypal.css",
+		"/C/Users/User/Desktop/Projects's/paypal.html",
+		"/C/Users/User/Desktop/space shooter/first_file.py",
+		"/C/Users/User/Documents/images/new grass.jpg",
+		"/C/Users/User/Desktop/space shooter/trial.py",
+		"/C/Users/User/Desktop/J.S Class/JS1.js",
+		"/C/Users/User/Desktop/J.S Class/classw1",
+		"/C/Users/User/Desktop/J.S Class/class 1.html",
+		"/C/Users/User/Desktop/space shooter/game.py",
+		"/C/Users/User/Desktop/game.py/tick tack toe.py",
+		"/C/Users/User/Desktop/game.py/game.py",
+		"/C/Users/User/Desktop/game.py/pong_game.py",
+		"/C/Users/User/Desktop/space shooter/first file",
+		"/C/Users/User/Desktop/game.py/test_tkinter.py",
+		"/C/Users/User/Desktop/new_life/js.css",
+		"/C/Users/User/Desktop/Ire/index.html",
+		"/C/Users/User/Desktop/new_life/js.html",
+		"/C/Users/User/Desktop/new_life/py.py",
+		"/C/Users/User/Desktop/Canva (2).lnk",
+		"/C/Users/User/AppData/Roaming/Sublime Text/Packages/User/snippet.sublime-snippet",
+		"/C/Users/User/Desktop/ire's_website/hi.html",
+		"/C/Users/User/Desktop/new_life/html.html",
+		"/C/Users/User/Desktop/new_life/index.js",
+		"/C/Users/User/Desktop/Music-School/music.css",
+		"/C/Users/User/Desktop/ire's_website/index.html.html",
+		"/C/Users/User/Desktop/ire's_website/sec.html",
+		"/C/Users/User/Desktop/Music-School/music.javascript",
+		"/C/Users/User/Documents/images/IMG_20210423_004959_536.jpg",
+		"/C/Users/User/Desktop/new_life/script.js.js",
+		"/C/Users/User/Desktop/new_life/clock.css",
+		"/C/Users/User/Desktop/CSS Assignment Folder/app.png",
+		"/C/Users/User/Desktop/CSS Assignment Folder/style3.css",
+		"/C/Users/User/Desktop/CSS Assignment Folder/assignment3.html",
+		"/C/Users/User/Desktop/CSS Class Folder/Class 2.html",
+		"/C/Users/User/Desktop/Music-School/music.js",
+		"/C/Users/User/Desktop/ire's_website/hello.js",
+		"/C/Users/User/Desktop/ire's_website/att.html",
+		"/C/Users/User/Desktop/CSS_Assignment_Folder/ASSIGNMENT 2.HTML",
+		"/C/Users/User/Desktop/Music-School/school.html",
+		"/C/Users/User/Desktop/ire's_website/irej.js",
+		"/C/Users/User/Desktop/ire's_website/secc.css",
+		"/C/Users/User/Desktop/ire's_website/irec.css",
+		"/C/Users/User/Desktop/CSS_Assignment_Folder/assignment3.html",
+		"/C/Users/User/Desktop/multi_calculator/My stuff.js",
+		"/C/Users/User/Desktop/multi_calculator/Calculator.css",
+		"/C/Users/User/Desktop/multi_calculator/index.html.html",
+		"/C/Users/User/Desktop/multi_calculator/My stuff.html",
+		"/C/Users/User/Desktop/bible.css",
+		"/C/Users/User/Desktop/bible.html",
+		"/C/Users/User/Desktop/new_life/pythonh.py",
+		"/C/Users/User/Desktop/new_life/jubilee.css",
+		"/C/Users/User/Desktop/new_life/hello.html",
+		"/C/Users/User/Desktop/new_life/Judeclass.html",
+		"/C/Users/User/Desktop/Notepad++ - Copy - Copy.lnk",
+		"/C/Users/User/Desktop/CSS Class Folder/CLASSWORK 5.HTML",
+		"/C/Users/User/Desktop/CSS Class Folder/Classwork 3.html",
+		"/C/Users/User/Desktop/CSS Assignment Folder/ASSIGNMENT 1.html",
+		"/C/Users/User/Desktop/ANIMATION/ANIMATION/animated.html",
+		"/C/Users/User/Desktop/ANIMATION/style.css",
+		"/C/Users/User/Desktop/CSS Assignment Folder/Assignment 1.css.css",
+		"/C/Users/User/Desktop/new_html_class/html_class/assignment 2.html",
+		"/C/Users/User/Desktop/new_html_class/html_class/Assignment 3.html",
+		"/C/Users/User/Desktop/new_html_class/html_class/class 3.html.html",
+		"/C/Users/User/Desktop/ANIMATION/ASSIGNMENT CSS STYLESHEET.css",
+		"/C/Users/User/Desktop/ANIMATION/animated.html",
+		"/C/Users/User/Desktop/CSS Assignment Folder/ASSIGNMENT 1",
+		"/C/Users/User/Desktop/CSS Class Folder/classwork1 stylesheet.css",
+		"/C/Users/User/Desktop/CSS Class Folder/classwork1.html",
+		"/C/Users/User/Desktop/CSS Class Folder/NewStylesheet.css",
+		"/C/Users/User/Desktop/CSS Class Folder/index.html",
+		"/C/Users/User/Desktop/ANIMATION/stylesheet",
+		"/C/Users/User/Desktop/ANIMATION/first",
+		"/C/Users/User/Desktop/ON MY OWN/Part 2.html",
+		"/C/Users/User/Desktop/ON MY OWN/Introduction.html",
+		"/C/Users/User/Desktop/trial.html",
+		"/C/Users/User/Desktop/Anime/Stylesheet",
+		"/C/Users/User/Desktop/Anime/my stuff.html",
+		"/C/Users/User/Desktop/CSS/Untitled.png",
+		"/C/Users/User/Desktop/new_html_class/html_class/My stuff.html",
+		"/C/Users/User/Desktop/CSS/first",
+		"/C/Users/User/Desktop/CSS/second",
+		"/C/Users/User/Desktop/new_html_class/html_class/class 2.html",
+		"/C/Users/User/Desktop/new_html_class/html_class/bocon.html",
+		"/C/Users/User/Desktop/html_class/something1.html",
+		"/C/Users/User/Desktop/New fMEANING OF ENTREPRENEURolder/html class/class 4.html",
+		"/C/Users/User/Desktop/New fMEANING OF ENTREPRENEURolder/html class/new 1.html",
+		"/C/Users/User/Desktop/New fMEANING OF ENTREPRENEURolder/html class/index.html",
+		"/C/Users/User/Desktop/New fMEANING OF ENTREPRENEURolder/html class/assignment 2.html",
+		"/C/Users/User/Desktop/html_class/class 2.html",
+		"/C/Users/User/Desktop/New fMEANING OF ENTREPRENEURolder/html class/assignment - Copy.html",
+		"/C/Users/User/Desktop/New fMEANING OF ENTREPRENEURolder/html class/class 3.html.html",
+		"/C/Users/User/Desktop/html_class/Assignment 3.1.html",
+		"/C/Users/User/Desktop/New fMEANING OF ENTREPRENEURolder/html class/bocon.html"
+	],
+	"find":
+	{
+		"height": 29.3333333333
+	},
+	"find_in_files":
+	{
+		"height": 620.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.3333333333
+	},
+	"input":
+	{
+		"height": 209.333333333
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "paypal.sublime-project",
+	"replace":
+	{
+		"height": 54.6666666667
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
